@@ -1,2 +1,2 @@
 # CodeWars
- Kata solutions on codewars.com
+ Kata solutions I solved on codewars.com
